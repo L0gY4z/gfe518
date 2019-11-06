@@ -1,0 +1,8 @@
+.social_links {
+justify-content: flex-end;
+flex-direction: row;
+}
+.shopcart{
+    color: orange;
+    margin-block: 50px;
+}
